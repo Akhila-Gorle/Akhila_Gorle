@@ -6,10 +6,8 @@
 🤖 Exploring AI-powered solutions for smart agriculture and automation  
 📈 Currently working on:
 - AI-powered rice & corn leaf disease detection using YOLO
-- TCP/IP client-server embedded communication
-- Smart GSM-based prepaid energy meter
 
-💼 Looking forward to internship opportunities in embedded firmware, system design, and data engineering.
+💼 Looking forward to internship opportunities in embedded firmware, system design.
 
 📫 Contact me:  
 - Email: akhila_gorle@srmap.edu.in  
